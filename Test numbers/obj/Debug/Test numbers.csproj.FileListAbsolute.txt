@@ -1,0 +1,6 @@
+E:\Latina DOCs\visual\Programming Fundamentals\C# Conditional Statements and Loops - Excercises\C Cond.St. and Loope - Ex\Test numbers\bin\Debug\Test numbers.exe.config
+E:\Latina DOCs\visual\Programming Fundamentals\C# Conditional Statements and Loops - Excercises\C Cond.St. and Loope - Ex\Test numbers\bin\Debug\Test numbers.exe
+E:\Latina DOCs\visual\Programming Fundamentals\C# Conditional Statements and Loops - Excercises\C Cond.St. and Loope - Ex\Test numbers\bin\Debug\Test numbers.pdb
+E:\Latina DOCs\visual\Programming Fundamentals\C# Conditional Statements and Loops - Excercises\C Cond.St. and Loope - Ex\Test numbers\obj\Debug\Test numbers.csprojResolveAssemblyReference.cache
+E:\Latina DOCs\visual\Programming Fundamentals\C# Conditional Statements and Loops - Excercises\C Cond.St. and Loope - Ex\Test numbers\obj\Debug\Test numbers.exe
+E:\Latina DOCs\visual\Programming Fundamentals\C# Conditional Statements and Loops - Excercises\C Cond.St. and Loope - Ex\Test numbers\obj\Debug\Test numbers.pdb
